@@ -1,1 +1,1 @@
-# FOP_PROJECT
+Inventory Automation System
