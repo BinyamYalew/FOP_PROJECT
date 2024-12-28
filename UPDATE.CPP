@@ -54,5 +54,5 @@ int main() {
             updateProduct(id, name, category, price, quantity);
             break;
         }
-}}while(true);
+}}
 }
